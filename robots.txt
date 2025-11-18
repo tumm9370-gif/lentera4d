@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+Sitemap: https://lentera4d-vip.github.io/lenter4d-landingpage/sitemap.xml
